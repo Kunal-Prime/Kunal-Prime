@@ -21,10 +21,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kunal-Prime&show_icons=true&theme=default)
+## 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Prime&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Kunal-Prime&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Prime&layout=compact&theme=tokyonight" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kunal-Prime&limit=5&theme=dark&combine_all_yearly_contributions=true)
