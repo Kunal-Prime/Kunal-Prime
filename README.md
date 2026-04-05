@@ -1,21 +1,21 @@
 # 💫 About Me:
  I don’t build projects to complete them. I build them to understand how thinking works.<br>🔭 Working on: AI-based experiments (not tutorials)<br>🤝 Open to: People who build, not just talk<br>🌱 Learning: How machines think, not just code<br>💬 Ask me about: AI, psychology, or weird ideas<br> ⚙️ Current Focus<br>     - Building: AI-based experiments (learning by doing)<br>     - Exploring: How AI + human psychology interact<br>     - Goal: Become someone who can build without tutorials<br>
  
-# 🌐 Socials:
+## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunaldhankhar2703@gmail.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-## 🚀 Core
+### 🚀 Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🌐 Web & Deployment
+### 🌐 Web & Deployment
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-## 📊 Data & Tools
+### 🔧 Data & Tools
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
