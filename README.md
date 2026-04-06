@@ -46,6 +46,21 @@ I build them to understand how thinking works.
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.com/Kunal-Prime.png" width="90" style="border-radius:50%" />
+</p>
+
+<p align="center">
+  🟢 Pair Extraordinaire &nbsp;&nbsp; • &nbsp;&nbsp;
+  🎯 YOLO &nbsp;&nbsp; • &nbsp;&nbsp;
+  🦈 Pull Shark &nbsp;&nbsp; • &nbsp;&nbsp;
+  🤠 Quickdraw
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
