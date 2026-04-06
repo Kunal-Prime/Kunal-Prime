@@ -23,9 +23,8 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal-Prime&show_icons=true&theme=tokyonight" />
+> Currently focusing on building projects instead of tracking numbers.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Prime&layout=compact&theme=tokyonight" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kunal-Prime&limit=5&theme=dark&combine_all_yearly_contributions=true)
